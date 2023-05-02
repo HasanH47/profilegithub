@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm HasanH47</h1>
 <h3 align="center">A passionate full-stack developer from Indonesia</h3>
+
+- 🔭 I’m currently working on [47XploreForum](https://47xploreforum.000webhostapp.com/)
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanh47&label=Profile%20views&color=0e75b6&style=flat" alt="hasanh47" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanh47" alt="hasanh47" /></a> </p>
-
-- 🔭 I’m currently working on [47XploreForum](https://47xploreforum.000webhostapp.com/)
 
 - 🌱 I’m currently learning **Vue.js, Nuxt.js, React.js, Next.js, PHP, Node.js, HTML & CSS, JavaScript, Flutter, Kotlin, C#, C++, C, Python, Unity**
 
