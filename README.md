@@ -9,6 +9,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanh47" alt="hasanh47" /></a> </p>
 
+<br>
+
 - 🌱 I’m currently learning **Vue.js, Nuxt.js, React.js, Next.js, PHP, Node.js, HTML & CSS, JavaScript, Flutter, Kotlin, C#, C++, C, Python, Unity**
 
 - 👨‍💻 All of my projects are available at [https://hasanh47-portfolio.netlify.app/](https://hasanh47-portfolio.netlify.app/)
