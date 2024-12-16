@@ -24,9 +24,7 @@ jobs:
           git config --local user.name "${{ secrets.GIT_NAME}}"
           git config --local user.email "${{ secrets.GIT_EMAIL}}"
 
-          # Commit hanya jika ada perubahan
           git add README.md
           git commit -m "Update README timestamp to $current_time" || echo "No changes to commit"
           
-          # Push perubahan ke repository
           git push
