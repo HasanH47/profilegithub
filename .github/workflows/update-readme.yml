@@ -2,7 +2,7 @@ name: Update README Timestamp
 
 on:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,9 +13,9 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Update README.md with current time
+      - name: Update README.md with current time (Jakarta)
         run: |
-          current_time=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
+          current_time=$(TZ="Asia/Jakarta" date "+%Y-%m-%d %H:%M:%S")
 
           sed -i "s|PLACEHOLDER_TIMESTAMP|$current_time|g" README.md
 
