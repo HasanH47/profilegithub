@@ -17,7 +17,7 @@ jobs:
         run: |
           current_time=$(TZ="Asia/Jakarta" date "+%Y-%m-%d %H:%M:%S")
 
-          sed -i "s|PLACEHOLDER_TIMESTAMP|$current_time|g" README.md
+          sed -i "s|<!-- PLACEHOLDER_TIMESTAMP -->|$current_time|g" README.md
 
       - name: Commit and Push Changes
         run: |
