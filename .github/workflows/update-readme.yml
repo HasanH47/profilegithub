@@ -16,8 +16,8 @@ jobs:
       - name: Update README.md with current time
         run: |
           current_time=$(date -u "+%Y-%m-%d %H:%M:%S UTC")
-          
-          sed -i "s|{{PLACEHOLDER_TIMESTAMP}}|$current_time|g" README.md
+
+          sed -i "s|PLACEHOLDER_TIMESTAMP|$current_time|g" README.md
 
       - name: Commit and Push Changes
         run: |
