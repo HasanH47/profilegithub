@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Hasan and I'm a Web Developer & CyberSecurity Enthusiast, from Indonesia</h2>
 
 ### Current Time
-🕒 **Last updated:** `PLACEHOLDER_TIMESTAMP`
+🕒 **Last updated:** <!--TIMESTAMP-->PLACEHOLDER_TIMESTAMP<!--TIMESTAMP_END-->
 
 ###
 
